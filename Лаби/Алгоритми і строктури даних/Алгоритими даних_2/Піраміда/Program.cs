@@ -90,12 +90,13 @@ namespace Піраміда
             //Вивод пірамідки
             Console.WriteLine("\n\n\n");
             Console.WriteLine("3) Вывод матрицi пiрамiдой:\n\n\n");
-            Console.WriteLine("               "+mas[0]);
-            Console.WriteLine("            "+mas[1]+"   "+mas[2]);
-            Console.WriteLine("         " + mas[3] + "   " + mas[4]+ "   "+ mas[5]);
-            Console.WriteLine("      " + mas[6] + "   " + mas[7] + "   " + mas[8]+"   " + mas[9]);
-            Console.WriteLine("    " + mas[10] + "   " + mas[11] + "   " + mas[12] + "   " + mas[13]+ "   " + mas[14]);
+            Console.WriteLine("               " + mas[14]);
+            Console.WriteLine("            " + mas[13] + "   " + mas[12]);
+            Console.WriteLine("         " + mas[11] + "   " + mas[10] + "   " + mas[9]);
+            Console.WriteLine("      " + mas[8] + "   " + mas[7] + "   " + mas[6] + "   " + mas[5]);
+            Console.WriteLine("    " + mas[4] + "   " + mas[3] + "   " + mas[2] + "   " + mas[1] + "   " + mas[0]);
             Console.WriteLine("\n\n\n");
+
 
 
 
